@@ -1,4 +1,4 @@
-# airport
+# AIRPORT
 building an app to navigate through airports.
 
 *** Thanks for checking out the README. If you have a suggestion
