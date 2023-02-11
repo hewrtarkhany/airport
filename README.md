@@ -243,10 +243,16 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
 [Java.java]: https://img.shields.io/badge/java-backend-yellow
 [Java-url]: https://java.com
 
 [Springboot]: https://img.shields.io/badge/Spring-Boot-blue
 [Springboot-url]: https://spring.io
+
+[Mysql-Mariadb]: https://img.shields.io/badge/mysql-mariadb-orange
+[Mysql-url]: https://www.mysql.com/
+
