@@ -29,9 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hewrtarkhany/airport">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">AIRPORT</h3>
 
   <p align="center">
