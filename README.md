@@ -109,7 +109,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  yarn install
   ```
 
 ### Installation
@@ -119,11 +119,11 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/hewrtarkhany/airport.git
    ```
 3. Install NPM packages
    ```sh
-   npm install
+   yarn install
    ```
 4. Enter your API in `config.js`
    ```js
@@ -137,8 +137,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+Use of this app to show and make travelling easy at the airport, cause sometimes you can't find someone to ask a question where the gate ### A is
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
