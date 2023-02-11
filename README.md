@@ -203,7 +203,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - Dark Arch - darkarchlinux@gmail.com
 
-Project Link: [https://github.com/hewrtarkhany/airport/tree/main](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/hewrtarkhany/airport/tree/main]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
