@@ -141,10 +141,8 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Using this app to navigate in the Airport because in the future, it gets crowed in at the airport you will need some guidance. 
+this app is built to serve that purpose. Enjoy itm share some positive thoughts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,10 +207,6 @@ Project Link: https://github.com/hewrtarkhany/airport/tree/main
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
