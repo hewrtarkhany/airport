@@ -32,11 +32,6 @@
     <a href="https://github.com/hewrtarkhany/airport"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -154,24 +149,20 @@ this app is built to serve that purpose. Enjoy itm share some positive thoughts.
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions is what makes a project to be a team project rather than one person. In the open source style, we work hard to serve humanity, we fix future problems.
+we create what we think people needs for free, we find joy in simple things. 
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "improvement".
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AirportFeature`)
-3. Commit your Changes (`git commit -m 'Add simple'`)
-4. Push to the Branch (`git push origin feature/AirportFeature`)
-5. Open a Pull Request
+*** COMMIT MORE PUSH LESS
+1. Create your Feature Branch (`git checkout -b feature-number-action`)
+2. Commit your Changes (`git commit -m 'add what you did'`)
+3. Push to the Branch (`git push origin feature-number-action`)
+4. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,8 +170,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <!-- LICENSE -->
 ## License
-
-Distributed 
+there is not a license for this, it's an open source enviorment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
